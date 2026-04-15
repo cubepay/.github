@@ -1,37 +1,32 @@
-# CubePay `.github`
+<p align="center">
+  <img src="./assets/cubepay-public-readme-hero.jpg" width="100%" alt="CubePay - We make payments simple." />
+</p>
 
-This is the **organization-level configuration** repository for [CubePay](https://github.com/cubepayment) on GitHub.
+# 📦 Repository Standards and Defaults
 
-GitHub treats this as a [special repository](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile) — it provides shared defaults and the public organization profile for all CubePay repos.
+This repository defines shared configuration and standards for the CubePay GitHub organization.
 
----
+It centralizes templates, workflows, and baseline files to ensure consistency across repositories.
 
-## About CubePay
+### Includes
 
-**Cube Payment Services Pte Ltd** is a Singapore-based fintech company building secure, scalable payment infrastructure for businesses across Southeast Asia.
+- Issue and pull request templates  
+- Shared GitHub Actions workflows  
+- Default community and support files  
 
-**Our products:**
+### Behavior
 
-- [**RadiumOne**](https://www.radiumone.io) — Our flagship payment platform
-- [**Knowledge Base**](https://support.radiumone.io) — Documentation and support
+- Applied automatically to repositories without their own configuration  
+- Repository-level files override these defaults  
 
-## What this repo contains
+### Notes
 
-| Path | Description |
-|---|---|
-| `profile/README.md` | The public organization profile shown on [github.com/cubepayment](https://github.com/cubepayment) |
-
-GitHub also supports org-wide **community health files** in this repo — such as contributing guidelines, security policies, and issue templates — which serve as defaults for any repository that doesn't define its own.
-
-## Careers
-
-We're always looking for talented engineers and product thinkers. Check out open roles at [careers.cubepayment.com](https://careers.cubepayment.com).
-
-## Contact
-
-- **Support:** [support.radiumone.io](https://support.radiumone.io)
-- **Website:** [radiumone.io](https://www.radiumone.io)
+- Changes here affect multiple repositories  
+- Review updates carefully before merging  
 
 ---
 
-<sub>&copy; 2020 Cube Payment Services Pte Ltd. All rights reserved. CubePay is incorporated in Singapore (201403040W). "CubePay" and "RadiumOne" are registered trademarks.</sub>
+<sub>Maintained by CubePay Engineering</sub>
+
+<sub>© Copyright 2025 by CubePay Pte Ltd ("CubePay"). All rights reserved. CubePay is incorporated in Singapore.</sub><br/>
+<sub>"CubePay", "RadiumOne" and the respective brand marks are registered trademarks of CubePay.</sub>

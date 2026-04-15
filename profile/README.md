@@ -34,7 +34,7 @@ For production access, onboarding, or credentials, please reach out through the 
 
 We’re building the future of payments and always looking for engineers and builders:
 
-- [careers.cubepayment.colm](https://careers.cubepayment.com) 
+- [careers.cubepayment.com](https://careers.cubepayment.com) 
 
 ---
 
@@ -46,5 +46,5 @@ We’re building the future of payments and always looking for engineers and bui
 
 ----
 
-<sub>© Copyright 2020 by CubePay Pte Ltd ("CubePay"). All rights reserved. CubePay is incorporated in Singapore.</sub><br/>
+<sub>© Copyright 2025 by CubePay Pte Ltd ("CubePay"). All rights reserved. CubePay is incorporated in Singapore.</sub><br/>
 <sub>"CubePay", "RadiumOne" and the respective brand marks are registered trademarks of CubePay.</sub>
